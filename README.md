@@ -1,13 +1,11 @@
 -------------------------------------------------------------------
-Class Analyzer Library 
+# Class Analyzer Library 
 
-Copyright (C) 2009 David Márquez de la Cruz.
-dementedworldatgmaildotcom
+### Copyright (C) 2009 David MÃ¡rquez de la Cruz.
+### dementedworldatgmaildotcom
 -------------------------------------------------------------------
 
-
-
-AIM OF THE PROJECT
+## AIM OF THE PROJECT
 ------------------
 The aim for this library is to provide means to analyze the header files
 belonging to a given project, and retrieve a list of the definitions found
@@ -32,22 +30,17 @@ piece of software that tries to analyze some classes and retrieve information fr
 them :)
 
 
-TODO: Class Analyzer Library.
+## TODO: Class Analyzer Library.
 -----------------------------
 - Document the library using Doxygen style comments.
 - Create a state machine diagram to depict the class analysis mechanic.
 - Fix as many bugs as possible!
 - Support for the remaining features.
 
-TODO: SyntaxChecker.
+## TODO: SyntaxChecker.
 --------------------
 - Probably make an application to search/replace the occurrences of elements
 that does not meet the provided syntax specification.
-
-LICENSE:
---------
-The project is released under the GNU GPL terms license. Please see license-gpl.txt
-for the details.
 
 
 This library currently uses Deelx Regular Expression Engine by Sswater Shi 
