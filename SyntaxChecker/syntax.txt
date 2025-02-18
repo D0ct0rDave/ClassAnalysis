@@ -1,0 +1,40 @@
+//
+// Simplified Hungarian Notation Syntax Description File
+//
+
+// standard types prefixes
+int = i
+unsigned int = ui
+char = c
+unsigned char = uc
+short = s
+unsigned short = us
+long = l
+unsigned long = ul
+float = f
+double = d
+void =
+
+// Class prefix
+class = o
+
+// enum prefix
+enum = e
+
+// Custom types prefixes
+CCAString = s
+uint = ui
+char* = sz
+
+// Enum declaration prefix
+enum_declaration = E
+
+// Class declaration prefix
+class_declaration = C
+
+// class attribute members prefix
+class_attribute = m_
+
+// function parameters
+function_param = _
+
